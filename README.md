@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there my Name is Alice 👋
+### ABOUT ME
+I love see films, reed but my real love is paintg :c i'm real creative
 
-<!--
-**alcfdez/alcfdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
