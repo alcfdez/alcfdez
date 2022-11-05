@@ -1,6 +1,6 @@
 ### Hi there my Name is Alice 👋
 ### ABOUT ME
-I love see films and read, reed but my real love is paintg, i'm real creative
+I love see films and reading, but my real love is paintg, i'm real creative
 
 
 - 🔭 I’m  don't currently working now,  
