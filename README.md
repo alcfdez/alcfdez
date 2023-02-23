@@ -1,11 +1,11 @@
 ### Hi there my Name is Alice 👋
 ### ABOUT ME
-I love see films and reading, but my real love is paintg, i'm real creative
+I love watching films and reading, but my real love is painting, I'm really creative.
 
 
-- 🔭 I’m  don't currently working now,  
-- 🌱 I’m currently learning to web and app programmer in a fullstack grade of FACTORIA F5
-- 👯 I’m looking to collaborate on busines who want's creativity people and whit actitute to learn each days
+- 🔭 I’m not currently working now,  
+- 🌱 I’m currently learning web and app programming in a fullstack grade of FACTORIA F5
+- 👯 I’m willing to collaborate on business who want creative people and with attitude to learn each day
 - 🤔 I’m looking for help with all to see with web programmer
 - 💬 Ask me about all you want o need
 - 📫 How to reach me: alcfdez@hotmail.com or my artist professional instagram @alinspirecreative
