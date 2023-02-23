@@ -9,6 +9,5 @@ I love watching films and reading, but my real love is painting, I'm really crea
 - 🤔 I’m looking for help with everything related to web programming.
 - 💬 Ask me about anything you want or need  
 - 📫 How to reach me: alcfdez@hotmail.com or my artist professional instagram @alinspirecreative
-- ⚡ Fun fact: I have a degree in JOURNALISM, but I have never worked in this because my real love are  fashion and creativy, is 
- threason for I worked in a lot variety and differents works, that they had give  me the capacity to addapted very quickly in a new proyects
+- ⚡ Fun fact: I have a degree in JOURNALISM, but I have never worked in this because my real love are  fashion and creativity. That is the reason why  I worked in a wide variety of works, that they had give  me the capacity to addapted very quickly in a new proyects.
 -->
