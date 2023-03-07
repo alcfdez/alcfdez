@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack developer with Vue and Java-SpringBoot**
 
-- 👯 I’m looking to collaborate on **web and app programming in a fullstack grade of FACTORIA F5**
+- 👯 I’m looking to collaborate on **web and app programming in a fullstack **
 
 - 🤝 I’m looking for help with **with everything related to web programming.**
 
