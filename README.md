@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alicia</h1>
 <h3 align="center">A passionate Fullstack developer from Gijón-Asturias (Spain)</h3>
 
-- 🔭 I’m currently working on **FULLSTACK DEVELOPER on FACTORIA F5**
+- 🔭 I’m currently working on **JUNIOR FULLSTACK DEVELOPER on FACTORIA F5**
 
 - 🌱 I’m currently learning **Fullstack developer with Vue and Java-SpringBoot**
 
